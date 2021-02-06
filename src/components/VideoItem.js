@@ -10,6 +10,7 @@ const VideoItem = ({ video, onVideoSelList }) => {
       className="video-item"
     >
       <Image
+        alt={video.snippet.title}
         className="imgAll"
         src={video.snippet.thumbnails.medium.url}
       />
