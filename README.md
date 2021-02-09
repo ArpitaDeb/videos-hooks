@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Videos app is enabling us with Searching videos from Youtube API based on given topics on the Search bar. The app component is making use of both state and lifecycle methods and the search bar is making use of state.
 !["BeachVideo"](https://github.com/ArpitaDeb/videos/blob/main/docs/BeachSearch.png?raw=true)
-!["videoFunctioning"]()
+!["videoFunctioning"](https://github.com/ArpitaDeb/videos-hooks/blob/main/docs/videosearch.gif?raw=true)
 
 ## Available Scripts
 
